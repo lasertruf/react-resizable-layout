@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-resizable-layout/static/css/main.bbbf3df7.css",
+    "main.js": "/react-resizable-layout/static/js/main.cb536b28.js",
+    "static/js/453.41268518.chunk.js": "/react-resizable-layout/static/js/453.41268518.chunk.js",
+    "index.html": "/react-resizable-layout/index.html",
+    "main.bbbf3df7.css.map": "/react-resizable-layout/static/css/main.bbbf3df7.css.map",
+    "main.cb536b28.js.map": "/react-resizable-layout/static/js/main.cb536b28.js.map",
+    "453.41268518.chunk.js.map": "/react-resizable-layout/static/js/453.41268518.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbbf3df7.css",
+    "static/js/main.cb536b28.js"
+  ]
+}
